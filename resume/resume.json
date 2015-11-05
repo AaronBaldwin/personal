@@ -1,0 +1,130 @@
+{
+  "basics": {
+    "name": "Aaron Baldwin",
+    "label": "Software and QA Engineer",
+    "email": "aaronleebaldwin@gmail.com",
+    "phone": "(310) 413-3563",
+    "summary": "Software Engineer looking for a full-time position in development, test, or product management.",
+    "location": {
+      "address": "2240 Whitetail Lane",
+      "postalCode": "CA 94583",
+      "city": "San Ramon",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "aaron.baldwin",
+        "url": "https://www.linkedin.com/pub/aaron-baldwin/87/926/73"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        ""
+      ]
+    },
+    {
+      "name": "Test Engineering",
+      "level": "",
+      "keywords": [
+        "Automation",
+        "Selenium",
+        "Scale"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        "Python",
+        "Java",
+        "C/C#/C++"
+      ]
+    },
+    {
+      "name": "Development Technologies",
+      "level": "",
+      "keywords": [
+        "Git",
+        "Bamboo",
+        "Unix"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Jut",
+      "position": "QA Engineer",
+      "website": "jut.io",
+      "startDate": "05-01-2015",
+      "endDate": "11-01-2015",
+      "summary": "Built automated testing",
+      "highlights": [
+        "Python and Cucumber test development",
+        "Bamboo plan maintenance",
+        "Working with PMs and Developers to discuss testability and scale"
+      ]
+    },
+    {
+      "company": "SiC Studios",
+      "position": "Contractor",
+      "startDate": "11-01-2014",
+      "endDate": "05-01-2015",
+      "summary": "Part-time front end development",
+      "highlights": [
+        "HTML/CSS/Javascript",
+        "User Story Mapping"
+      ]
+    },
+    {
+      "company": "Workday",
+      "position": "Software Engineer",
+      "startDate": "2012-05-01",
+      "endDate": "2014-10-01",
+      "summary": "Back-end software development",
+      "highlights": [
+        "Java, JavaScript, SoapUI, Integrations",
+        "Managed integration of 3rd party software into build"
+      ]
+    },
+    {
+      "company": "Western Digital",
+      "position": "Software Engineer",
+      "startDate": "2011-06-01",
+      "endDate": "2012-05-01",
+      "summary": "Built internal tools and test automation  ",
+      "highlights": [
+        "Worked in C# and Java",
+        "Emphasis on parallelization and efficiency"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "California Polytechnic State University San Luis Obispo",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2007-09-01",
+      "endDate": "2011-06-01",
+      "gpa": "3.29",
+      "courses": [
+        "CSC349 - Algorithms",
+        "CPE515 - Advanced Computer Architecture",
+        "Minor in Spanish"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "languages": [],
+  "interests": [],
+  "references": []
+}
