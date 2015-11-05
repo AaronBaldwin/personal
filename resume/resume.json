@@ -7,7 +7,7 @@
     "summary": "Software Engineer looking for a full-time position in development, test, or product management.",
     "location": {
       "address": "2240 Whitetail Lane",
-      "postalCode": "CA 94583",
+      "postalCode": "94583",
       "city": "San Ramon",
       "countryCode": "US",
       "region": "California"
@@ -64,8 +64,8 @@
       "company": "Jut",
       "position": "QA Engineer",
       "website": "jut.io",
-      "startDate": "05-01-2015",
-      "endDate": "11-01-2015",
+      "startDate": "2015-05-01",
+      "endDate": "2015-11-01",
       "summary": "Built automated testing",
       "highlights": [
         "Python and Cucumber test development",
@@ -76,8 +76,8 @@
     {
       "company": "SiC Studios",
       "position": "Contractor",
-      "startDate": "11-01-2014",
-      "endDate": "05-01-2015",
+      "startDate": "2014-11-01",
+      "endDate": "2015-05-01",
       "summary": "Part-time front end development",
       "highlights": [
         "HTML/CSS/Javascript",
