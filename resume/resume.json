@@ -64,20 +64,21 @@
       "company": "Jut",
       "position": "QA Engineer",
       "website": "jut.io",
-      "startDate": "2015-05-01",
-      "endDate": "2015-11-01",
+      "startDate": "May 2015",
+      "endDate": "November 2015",
       "summary": "Built automated testing",
       "highlights": [
-        "Python and Cucumber test development",
-        "Bamboo plan maintenance",
-        "Working with PMs and Developers to discuss testability and scale"
+        "Test framework construction in Python and test script writing in Cucumber",
+		"Test Environment maintenance in AWS, Unix, and Bamboo",
+		"Work with PMs and developers to establish testability and customer impact",
+		"Experience with Selenium and efficient UI testing practices"
       ]
     },
     {
       "company": "SiC Studios",
       "position": "Contractor",
-      "startDate": "2014-11-01",
-      "endDate": "2015-05-01",
+      "startDate": "November 2014",
+      "endDate": "May 2015",
       "summary": "Part-time front end development",
       "highlights": [
         "HTML/CSS/Javascript",
@@ -87,8 +88,8 @@
     {
       "company": "Workday",
       "position": "Software Engineer",
-      "startDate": "2012-05-01",
-      "endDate": "2014-10-01",
+      "startDate": "May 2012",
+      "endDate": "October 2014",
       "summary": "Back-end software development",
       "highlights": [
         "Java, JavaScript, SoapUI, Integrations",
@@ -98,8 +99,8 @@
     {
       "company": "Western Digital",
       "position": "Software Engineer",
-      "startDate": "2011-06-01",
-      "endDate": "2012-05-01",
+      "startDate": "June 2011",
+      "endDate": "May 2012",
       "summary": "Built internal tools and test automation  ",
       "highlights": [
         "Worked in C# and Java",
@@ -112,8 +113,8 @@
       "institution": "California Polytechnic State University San Luis Obispo",
       "area": "Computer Engineering",
       "studyType": "Bachelor",
-      "startDate": "2007-09-01",
-      "endDate": "2011-06-01",
+      "startDate": "September 2007",
+      "endDate": "June 2011",
       "gpa": "3.29",
       "courses": [
         "CSC349 - Algorithms",
