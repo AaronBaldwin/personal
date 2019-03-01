@@ -6,9 +6,9 @@
     "phone": "(310) 413-3563",
     "summary": "Software Engineer looking for a full-time position in development, test, or product management.",
     "location": {
-      "address": "2240 Whitetail Lane",
-      "postalCode": "94583",
-      "city": "San Ramon",
+      "address": "19 Ambler",
+      "postalCode": "94608",
+      "city": "Oakland",
       "countryCode": "US",
       "region": "California"
     },
@@ -22,22 +22,13 @@
   },
   "skills": [
     {
-      "name": "Web Development",
+      "name": "FullStack Specialties",
       "level": "",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript",
-        ""
-      ]
-    },
-    {
-      "name": "Test Engineering",
-      "level": "",
-      "keywords": [
-        "Automation",
-        "Selenium",
-        "Scale"
+        "React",
+		"Selenium",
+		"SQL",
+		"Webpack/SCSS"
       ]
     },
     {
@@ -46,20 +37,48 @@
       "keywords": [
         "Python",
         "Java",
+		"Javascript",
         "C/C#/C++"
       ]
     },
     {
-      "name": "Development Technologies",
+      "name": "CI Tools",
       "level": "",
       "keywords": [
         "Git",
-        "Bamboo",
-        "Unix"
+        "Bamboo/Travis",
+        "Unix",
+		"AWS"
+      ]
+    },
+    {
+      "name": "Miscellaneous",
+      "level": "",
+      "keywords": [
+        "Test Automation",
+		"User Experience",
+		"Architecture Design",
+		"Product Scoping"
       ]
     }
   ],
   "work": [
+    {
+	  "company": "Zipongo",
+	  "position": "Senior FullStack and QA Engineer",
+	  "website": "zipongo.com",
+	  "startDate": "December 2015",
+	  "endDate": "April 2018",
+	  "summary": "Many responsibilities",
+	  "highlights": [
+	    "Drafted language-agnostic test plans for product systems",
+		"Implemented automated tests at many levels of architecture abstraction",
+		"Wrote a framework and established patterns for creating unit and integration tests",
+		"Provided testing consult to engineers on other projects",
+		"Developed features and products in full-stack fashion",
+		"Attended multiple customer engagement events across the country"
+	  ]
+	},
     {
       "company": "Jut",
       "position": "QA Engineer",
