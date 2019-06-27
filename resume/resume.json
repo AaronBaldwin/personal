@@ -4,7 +4,7 @@
     "label": "Software and QA Engineer",
     "email": "aaronleebaldwin@gmail.com",
     "phone": "(310) 413-3563",
-    "summary": "Software Engineer looking for a full-time position in development, test, or product management.",
+    "summary": "Experienced Software Engineer looking for a full-time position in development, test, or product management.",
     "location": {
       "address": "19 Ambler",
       "postalCode": "94608",
@@ -26,9 +26,9 @@
       "level": "",
       "keywords": [
         "React",
-		"Selenium",
-		"SQL",
-		"Webpack/SCSS"
+        "Selenium",
+        "SQL",
+        "Webpack/SCSS"
       ]
     },
     {
@@ -37,7 +37,7 @@
       "keywords": [
         "Python",
         "Java",
-		"Javascript",
+        "Javascript",
         "C/C#/C++"
       ]
     },
@@ -48,7 +48,7 @@
         "Git",
         "Bamboo/Travis",
         "Unix",
-		"AWS"
+        "AWS"
       ]
     },
     {
@@ -56,29 +56,43 @@
       "level": "",
       "keywords": [
         "Test Automation",
-		"User Experience",
-		"Architecture Design",
-		"Product Scoping"
+        "User Experience",
+        "Architecture Design",
+        "Product Scoping"
       ]
     }
   ],
   "work": [
     {
-	  "company": "Zipongo",
-	  "position": "Senior FullStack and QA Engineer",
-	  "website": "zipongo.com",
-	  "startDate": "December 2015",
-	  "endDate": "April 2018",
-	  "summary": "Many responsibilities",
-	  "highlights": [
-	    "Drafted language-agnostic test plans for product systems",
-		"Implemented automated tests at many levels of architecture abstraction",
-		"Wrote a framework and established patterns for creating unit and integration tests",
-		"Provided testing consult to engineers on other projects",
-		"Developed features and products in full-stack fashion",
-		"Attended multiple customer engagement events across the country"
-	  ]
-	},
+      "company": "Budee",
+      "position": "Senior FullStack and QA Engineer",
+      "website": "budee.org",
+      "startDate": "May 2018",
+      "endDate": "April 2019",
+      "summary": "",
+      "highlights": [
+        "Transitioned website from WordPress/GoDaddy to React on AWS",
+        "Used Google Maps APIs and location tracking to show live updates of delivery driver whereabouts",
+        "Debugged and responded to live issues with system at all hours of the week",
+        "Built Devops infrastructure including testing framework, network stack, and a CI build on Jenkins"
+      ]
+    },
+    {
+      "company": "Zipongo",
+      "position": "Senior FullStack and QA Engineer",
+      "website": "zipongo.com",
+      "startDate": "December 2015",
+      "endDate": "April 2018",
+      "summary": "Many responsibilities",
+      "highlights": [
+        "Drafted language-agnostic test plans for product systems",
+        "Implemented automated tests at many levels of architecture abstraction",
+        "Wrote a framework and established patterns for creating unit and integration tests",
+        "Provided testing consult to engineers on other projects",
+        "Developed features and products in full-stack fashion",
+        "Attended multiple customer engagement events across the country"
+      ]
+    },
     {
       "company": "Jut",
       "position": "QA Engineer",
@@ -88,9 +102,9 @@
       "summary": "Built automated testing",
       "highlights": [
         "Test framework construction in Python and test script writing in Cucumber",
-		"Test Environment maintenance in AWS, Unix, and Bamboo",
-		"Work with PMs and developers to establish testability and customer impact",
-		"Experience with Selenium and efficient UI testing practices"
+        "Test Environment maintenance in AWS, Unix, and Bamboo",
+        "Work with PMs and developers to establish testability and customer impact",
+        "Experience with Selenium and efficient UI testing practices"
       ]
     },
     {
