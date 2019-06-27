@@ -1,0 +1,71 @@
+<html>
+  <head>
+    <title>Scratch HTML</title>
+    <script
+      src="https://code.jquery.com/jquery-3.3.1.min.js"
+      integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+      crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+    <style>
+      .square {
+        width: 100px;
+        height: 100px;
+        background-color: dodgerblue;
+        cursor: pointer;
+      }
+
+      .pic-container {
+        height: 500px;
+        width: 500px;
+        margin: 0 auto;
+      }
+
+      .pic-container img {
+        height: 500px;
+        width: 500px;
+      }
+
+      .screen {
+        height: 500px;
+        width: 500px;
+        z-index: 5;
+        position: absolute;
+        background-color: white;
+      }
+
+      .logo {
+        display: table;
+        height: 500px;
+        width: 500px;
+        background-image: url(./marijuana-leaf.svg);
+        background-size: 500px;
+      }
+
+      .logo p {
+        display: table-cell;
+        text-align: center;
+        vertical-align: middle;
+        font-size: 10em;
+        font-family: Courier New;
+        color: #AFE600;
+          text-shadow:
+    -3px -3px 0 #000,
+    3px -3px 0 #000,
+    -3px 3px 0 #000,
+    3px 3px 0 #000;
+      }
+    </style>
+    <script>
+      $(document).ready(function(){
+        $('.screen').animate({ height: 0 }, 2000);
+    });
+    </script>
+  </head>
+  <body>
+    <div class='pic-container'>
+      <div class='screen'></div>
+      <div class='logo'><p>Budee</p></div>
+    </div>
+  </body>
+</html>
