@@ -1,0 +1,208 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.book-notes {
+  display: grid;
+  grid-template-areas: 'header'
+                       'main';
+  grid-template-rows: 60px calc(100vh - 60px);
+  grid-template-columns: 100vw;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+
+  background-image: url(https://ak5.picdn.net/shutterstock/videos/5647865/thumb/10.jpg);
+  background-position: bottom;
+  color: white;
+
+}
+
+.header span {
+  margin: 0 15px;
+  cursor: pointer;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.header span.selected {
+  text-decoration: underline;
+}
+
+.header .logo {
+  font-family: 'Shadows Into Light';
+  font-size: 3em;
+  margin: 0 50px;
+}
+
+.main {
+  display: grid;
+  grid-template-areas: 'sidebar chapter-summary right';
+  grid-template-columns: 1fr 5fr;
+}
+
+.sidebar {
+  grid-area: sidebar;
+  margin: 8px;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+}
+
+.quiz {
+  grid-area: right;
+}
+
+.sidebar .book {
+}
+
+.sidebar .book .click-wrapper {
+  cursor: pointer;
+} 
+
+.sidebar .book p {
+  display: inline;
+  font-size: 1.5em;
+  margin: 0;
+  font-family: Arial;
+}
+
+.sidebar .book ul {
+  list-style: none;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  height: 0;
+  transition: height 0.5s;
+}
+
+.sidebar .book ul li {
+  margin: 0;
+  border-radius: 5px;
+  padding: 0 5px;
+}
+
+.sidebar a {
+  text-decoration: none;
+  display: block;
+}
+
+.sidebar .book ul li.selected {
+  background-color: lavender;
+}
+
+.sidebar .book ul li:hover {
+  background-color: lavender;
+}
+
+.sidebar .book.open ul {
+  height: 100%;
+}
+
+.sidebar .book i {
+  display: inline-block;
+  transition: transform 1s;
+}
+
+.sidebar .book.open i {
+  transform: rotate(90deg);
+}
+
+.chapter-summary {
+  grid-area: chapter-summary;
+  overflow: scroll;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  padding: 20px;
+  max-width: 600px;
+}
+
+.chapter-summary h1 {
+  font-family: 'Courier New';
+  margin: 0;
+  margin-left: 20px;
+}
+
+.chapter-summary h2 {
+  font-family: 'Courier New';
+  padding-left: 15px;
+  margin: 0;
+  margin-bottom: 10px;
+  border-bottom: 1px dotted black;
+}
+
+.chapter-summary h2 span a {
+  font-size: 0.7em;
+}
+
+.chapter-summary h2 span a:hover {
+  cursor: pointer;
+  text-shadow: 1px 1px white;
+}
+
+.chapter-summary .character {
+  margin: 5px;
+  padding: 5px;
+  border: 1px inset burlywood;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.chapter-summary .character span {
+  font-weight: bold;
+}
+
+.homepage {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  padding: 15px;
+  max-width: 600px;
+}
+
+.homepage h1 {
+  margin-left: 10px;
+}
+
+.chapter-summary .quote {
+  position: relative;
+  border: 1px outset goldenrod;
+  border-radius: 5px;
+  padding: 10px;
+  background: linear-gradient(to bottom right, lightgrey, beige);
+}
+
+.chapter-summary .quote .speaker {
+  margin-bottom: 0;
+  font-weight: bold;
+}
+
+.chapter-summary .quote .quotemark {
+  font-size: 3em;
+  position: absolute;
+}
+
+.chapter-summary .quote .quotemark.top {
+  top: 0
+}
+
+.chapter-summary .quote .quotemark.bottom {
+  bottom: 5px;
+  right: 10px;
+}
+
+.chapter-summary .quote .text {
+  font-style: italic;
+}
+
+.chapter-summary .quote p {
+  margin-left: 15px;
+}
+
+.quiz {
+
+}
+
+.quiz p {
+
+}

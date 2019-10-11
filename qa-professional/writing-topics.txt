@@ -1,0 +1,8 @@
+SmokeOut hosts a debate about whether to use semi-colons or not
+This happens at an engineering meeting early on
+Kevin enjoys the use of semi-colons having come from a different background than Javascript
+Employee on the team (Moocher) is opposed to them
+Engineering meeting is called after this debate trickles up the management tree
+Build up over time with comments on pull requests to do with semi-colons
+Characters haggle each other over the usage of semi-colons in software
+Ends with Jonathan stating that the semi-colons are polite

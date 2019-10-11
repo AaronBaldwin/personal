@@ -1,0 +1,115 @@
+<h3>Scene I</h3>
+<?php
+  $mpQuote = "Madame Pernelle, Page 1";
+  $mpText = "Because I can't endure to see such management, and nobody takes any care to please me.  I leave your house, I tell you, very ill edified; my instructions are all contradicted.  You show no respect for anything amongst you, everyone here talks aloud and the house is a perfect Dover Court.";
+  printQuote($mpQuote, $mpText);
+?>
+<p>
+  Act I opens with Madam Pernelle, Orgon's mother, and a minor character, fleeing Orgon's house in a hurry.  She is flanked by her servant, Flipote.  Mariane, Damis, Dorine, and Elmire (the core family sans Orgon) pursue her as she is fleeing the premise.  Madame Pernelle complains that Orgon's family is all disrespectful, ungodly, and frivolous.  The family members take turns interrupting her, but they only get one word in edgewise each before Madame Pernelle turns on them and begins criticising anew.  She calls Dorine a smart-ass, Damis an idiot, Mariane a prude, Elmire wasteful, and tells Cleante that he gives too much bad advice.
+</p>
+<p>
+  The argument with Madame Pernelle quickly shifts to Tartuffe.  Madame Pernelle makes it known that she likes Tartuffe and believes him to be a holy and righteous man.  She tells the family they would do well to see him as a role model.  Damis and Dorine are the most outspoken critics of Tartuffe here, referring to him as a "censorious bigot" and saying that "the critical zealot controls everything.  Damis shows his brash nature and predicts some future drama:
+</p>
+<?php
+  $mpQuote = "Damis, Page 2";
+  $mpText = "To me, his actions are perfectly odious; and I foresee that, one time or other, matters will come to extremity between that wretch and me.";
+  printQuote($mpQuote, $mpText);
+?>
+<p>
+  Dorine reinforces her argument that Tartuffe is a control-freak, stating that he does not allow the family to keep company aside from himself.  She indicates she believes Tartuffe is romantically interested in Elmire, Orgon's wife, "jealous of my lady".  This prediction turns out to be true later on.  Madame Pernelle doubles down, stating that Tartuffe is right to restrict the family's social visits because the family is living like spoiled socialites.  It is apparent from the brash nature of the family so far that Madame Pernelle is at least somewhat correct in her critiques of them.  Cleante interjects to say that there is nothing wrong with some idle gossip and having visitors around.
+</p>
+<?php
+  $mpQuote = "Dorine, Page 3";
+  $mpText = "People whose own conduct is the most ridiculous are always readiest to detract from that of others";
+  printQuote($mpQuote, $mpText);
+?>
+<p>
+  This establishes Dorine as a narrator, or mouthpiece for the author.  This is a statement about society at large and part of the hypothesis of the drama.  This theme will come back more where we see that the most scrutinous and critical people are often the least critical of themselves.  Dorine snidely says this in reference to some neighbor of theirs, Daphne, but it is also a shot at Madame Pernelle who has just finished criticising every member of her son's family rather loudly.
+</p>
+<?php
+  $mpQuote = "Dorine, Page 3";
+  $mpText = "By colouring other people's actions like their own, they think to justify their conduct to the world, and fondly hope, by way of some resemblance, to give their own intrigues the air of innocence or to shift part of their blame elsewhere, which they find falls to hard on themselves.";
+  printQuote($mpQuote, $mpText);
+?>
+<p>
+  This quote is more of the same from Dorine, but critical to the overall theme of the drama so its important to consider.  Dorine says that people of questionable morals are the biggest critics of others.  People of dubious character are nearly always hypocrites,because they feel guilty about their own behavior.  They criticize others as a defense mechanism to feel better about themselves and, distract from their own misadventures.  This is a pessimistic outlook on humanity, but certainly a true one.  Tartuffe himself is, of course, the embodiment of such hypocrisy in this drama.
+</p>
+<p>
+  Madame Pernelle mentions a lady named Orante, saying that she has led an exemplary life and that she frowns on the activities of the family.  Dorine retorts that Orante is aging and merely jealous because she is no longer socially relevant; Orante is a critic out of envy over the decline of her own life.  Dorine calls her an "antiquated coquette" who has been abandoned by her "gallants".  This over-the-top romantic description is humorous of course.
+</p>
+<p>
+  Madame Pernelle makes her final monologue.  In it, she likens the family to the Tower of Babel because they are always babbling.  She abuses her servant for no reason, on the way out.  This serves to cast her more as a villain; the family may be impudent and rash, but they are not spiteful.
+</p>
+<h3>Scene II</h3>
+<p>
+  Elmire, Damis, and Mariane see Madame Pernelle away to the front gate while Cleante and Dorine stay behind.  Cleante dryly states he is glad he doesn't have to follow her out and calls her a "good old lady".  Dorine stipulates that had Madame Pernelle heard him say that, she would respond, with ironic politeness, that she was not old.  The pair resume discussing Tartuffe and Dorine gives a small monologue setting the state for how Orgon feels about Tartuffe.
+</p>
+<?php
+  $mpQuote = "Dorine, Page 5";
+  $mpText = "he [Orgon] admires all he [Tartuffe] does, quotes him on all occasions, looks on every trifling action of his a wonder...";
+  printQuote($mpQuote, $mpText);
+?>
+<p>
+  Dorine laments that Tartuffe is destroying the family's "patches, paint, and ribbons".  This statement sounds a bit melodramatic at first, but is quickly followed up with an anecdote.  Tartuffe at one point discovered a handkerchief in a holy book and proceeded to shred it because it was intermingling the mundane with the divine.  This reveal is humorous because it makes the "patches, paint, and ribbons" statement more substantiated.  We see that Tartuffe is shredding their patches and ribbons in the form of literally shredding handkerchiefs.  This is an anti-climax, a humorous one, immediately after a strange "analogy" about how he is disrupting their home.
+</p>
+<h3>Scene III</h3>
+<p>
+  The family returns from seeing Madame Pernelle off.  Cleante sees Orgon approaching the manor from afar and remains out to meet him.  Damis now mentions that his sister, Mariane, is to be married to a man named Valere.  Evidently Orgon and/or Tartuffe have been attempting to delay the arrangements.  Damis asks Cleante to discuss the marriage with Orgon.
+</p>
+<h3>Scene IV</h3>
+<p>
+  Orgon joins Dorine and Cleante.  He asks Cleante to wait a minute while he asks Dorine about the latest family news.  This scene is humorous partly for the rhythm.  Dorine talks about how Elmire, "my lady", fell ill.  Orgon continues to interject "And Tartuffe?" after every sentence to change the topic entirely away from Elmire feeling poorly.  Dorine, repeatedly, tells how Tartuffe, contrarily, is doing perfectly well.
+</p>
+<?php
+  $mpQuote = "Dorine, Page 6";
+  $mpText = "At length my lady, prevailed upon by our persuasions, resolved to be let blood; then she soon grew easier";
+  printQuote($mpQuote, $mpText);
+?>
+<p>
+  This is back in a time period were blood-letting was still considered medically sound treatment for illness.  After Elmire felt terrible for a while, the family eventually convinced her to let out some blood, and she felt better afterwards.  Orgon interjects "And Tartuffe?" to which Dorine jokingly replies that Tartuffe attempted to replenish Elmire's lost blood by gorging on wine the following morning.  This, of course, is a non-sequitur, aside from the parallel between blood and wine.  Orgon seems not to care at all about Elmire's falling sick.
+</p>
+<h3>Scene V</h3>
+<p>
+  In this final scene of Act I, Orgon and Cleante have a discussion about Tartuffe.  Cleante points out that Orgon has just disregarded the news about his wife's poor condition because he is so blinded by his concern for Tartuffe.  Orgon then attempts to justify his love of Tartuffe.
+</p>
+<?php
+  $mpQuote = "Orgon, Page 7";
+  $mpText = "He's a man - that - ah - a - man, in short, a man...[who] regards the whole world no more than so much dung.";
+  printQuote($mpQuote, $mpText);
+?>
+<p>
+  Orgon struggles for words to describe Tartuffe.  The best he can come up with is to call him a "man".  This is somewhat humorous, and also an indication that Orgon is outright foolish for trusting Tartuffe.  He has no idea why he likes him so much and cannot justify his own infatuation.  The quote about dung simply means to say that Tartuffe has no love for any earthly possessions.  Stating it this way is ironic and self-defeating.  Orgon wishes to say that Tartuffe cares not for earthly belongings.  However, the manner he phrases it is a double-meaning and suggests that Tartuffe actually has disdain for humanity and life.  These quotes show that while Orgon tries earnestly to defend his house guest, his defenses are laughable and serve to demonstrate how indefensible Tartuffe is.
+</p>
+<p>
+  Orgon falls back on describing how Tartuffe was when they first met, in church.  These recountings of Tartuffe's pious actions resemble precautionary tales told in the Bible.  Tartuffe follows token religious gestures fervently.  He gives to the poor, but he only does so when he knows that other people are observing him do it.  Matthew chapter six in the Bible cautions about hypocrtitical religious zealots.
+</p>
+<?php
+  $mpQuote = "Matthew 6:1-2, The Bible";
+  $mpText = "Take heed that ye do not your alms before men, to be seen of them: otherwise ye have no reward of your Father which is in heaven.  Therefore when thou doest [thine] alms, do not sound a trumpet before thee, as the hypocrites do in the synagogues and in the streets, that they may have glory of men. Verily I say unto you, They have their reward.";
+  printQuote($mpQuote, $mpText);
+?>
+<p>
+  Orgon recounts how he offered Tartuffe gifts and Tartuffe would try to return them, and if that failed, he'd give them to the poor instead.  He does so to immitate false modesty.  It is actually insulting to reject someone's gift by publicly regifting it to the poor.  Orgon should have felt irritated by these actions, but instead saw them as noble.  Orgon also recounts how Tartuffe would sigh and grown loudly in the church.  Once again, this draws a comparison to Jesus's description of religious hypcrites in Matthew 6:
+</p>
+<?php
+  $mpQuote = "Matthew 6:16, The Bible";
+  $mpText = "When you fast, do not look somber as the hypocrites do, for they disfigure their faces to show others they are fasting. Truly I tell you, they have received their reward in full.";
+  printQuote($mpQuote, $mpText);
+?>
+<p>
+  Cleante interrupts to balk at this monologue of Orgon's, stunned at the words coming out of Orgons mouth.  Orgon accuses him of being full of "libertinism".  A libertine is loosely translatable to a "liberal" or hedon.  Cleante retorts that to be clear-headed is to be a libertine.  Cleante implores Orgon to understand that actions speak louder than words and that there are a good many people on earth who pretend to be righteous and moral, but who actually have no concept of righteousness.  Cleante lists a few people, Aristo, Periander, ..., who are genuine role models to be admired.  The trademark of good people is that they are slow to judge others and quick to praise them instead.    
+</p>
+<?php
+  $mpQuote = "Cleante, Page 9";
+  $mpText = "[they] reprove our actions by their own...their chief aim is to live themselves as they should do.";
+  printQuote($mpQuote, $mpText);
+?>
+<p>
+  Contrasting to hypocrites, moral and upright people strive to keep to themselves.  This is also relatable to Matthew 7:5 where Jesus preaches that we should first see to the "beam" in our own eye before the "mote" in our brothers.  Live by example rather than by telling others how to live.
+</p>
+  <p>Act I ends with Orgon getting huffy and walking off on Cleante.  But before he does, they discuss Mariane's wedding to Valere.  Cleante attempts to get Orgon to say that the wedding is still on.  He asks if Orgon's previous promise about the wedding is still good, and Orgon evades the question, stating asininely, that God's will will be done, whatever that may be.  We see already that Orgon is being evasive and intends to break off his daughter's marriage, but why?
+</p>
+<h3>Discussion Topics</h3>
+<p>How did Tartuffe convince Orgon of his piety and righteousness?</p>
+<p>Who is correct in Madame Pernelle's argument with the family?</p>
+<p>According to Cleante, how might we determine who is wise and who is a fraud?</p>

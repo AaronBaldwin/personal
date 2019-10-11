@@ -1,0 +1,42 @@
+<h3>Scene I</h3>
+<p>
+  The second act begins with Orgon and his daughter Mariane.  Orgon is peering into a closet.  Mariane asks him why, and he says he wishes to have a covert discussion with her and wanted to make sure nobody was spying on them from within the closet.  Then he speaks:
+</p>
+<?php
+  $mpQuote = "Orgon, Page 11";
+  $mpText = "I have always, Mariane, found you of a sweet disposition, and you have always been very dear to me";
+  printQuote($mpQuote, $mpText);
+?>
+<p>
+  This quote has somewhat of a double purpose.  Orgon was previously poking his head into a closet in a paranoid fit and he now does a u-turn to sweet talking his daughter.  This flattery is a bit excessive and any normal person would be suspicious of Orgon's actions in this instance.  The second interesting part after the sudden u-turn is that this statement from Orgon is actually persuasive.  Mariane accepts the compliment in stride and appears to be flattered.  Mariane is subservient to her father and his whims in this way.  Orgon finishes this scene, asking Mariane her opinion on Tartuffe and she replies that she will say whatever her father wants her to say.
+</p>
+
+<h3>Scene II</h3>
+<p>
+  Dorine, validating Orgon's paranoia now creeps into the scene.  Orgon asks Mariane in a roundabout manner whether she would marry Tartuffe.  Mariane is positively befuddled by the statement, and the two have a short but silly exchange where they keep asking what the other meant.  Miscommunication between two parties is a core tenet of humor.
+</p>
+<p>
+  Orgon notices Dorine who interjects at this point.  Dorine jokes that she has just now heard the news of Mariane and Tartuffe being married and that she has been making a mockery of the news.  This is of course tongue-in-cheek sarcasm from Dorine who was just caught overhearing this private declaration from Orgon.  Dorine proceeds to insist that such a marriage makes no sense and that surely Orgon must not be serious.
+</p>
+<?php
+  $mpQuote = "Dorine, Page 12";
+  $mpText = "Good sir, let us argue this affair calmly.  You really must banter people by this scheme.";
+  printQuote($mpQuote, $mpText);
+?>
+<p>
+  This is one of the rare times where Dorine states something plainly.  Otherwise, most everything she says is wrapped in banter.  Here she comes right out and says that the best, most fruitful, discussions are between calm people who banter each other.  She then makes logical inquiries into Orgon's motives for this request.  Dorine is a mouthpiece for the author and here she reveals a core philosophy of the drama: humor, and especially self-humor are critical in communication and understanding.
+</p>
+<p>
+  Orgon again defends Tartuffe, stating that Tartuffe being impoverished is a sign that he has followed God's will in giving up earthly possessions.  He reveals that Tartuffe was not always poor; in fact, he comes from a well-known family.  The lack of concern for earthly possessions can be seen as Godly, but in Tartuffe's case he appears more of a prodigal son than an ascetic.
+</p>
+<p>
+  The conversation between Orgon and Dorine devolves into more bickering and snide remarks.  Dorine tells Orgon that it will be his fault entirely if the marriage to Tartuffe goes poorly.  She further states that she is only looking out for the family and for Orgon himself, out of love.  Orgon threatens to hit her if she keeps interrupting, and she quiets down.  Orgon goads her into one more outburst, but she flees before Orgon can slap her.
+</p>
+<?php
+  $mpQuote = "Orgon and Dorine, Page 14";
+  $mpText = "Tartuffe, without foppery, is a person so formed.<br/>Yes, 'tis a pretty phiz.";
+  printQuote($mpQuote, $mpText);
+?>
+<p>
+  What Orgon means here is: If you consider the spiritual side rather than the physical appearance of Tartuffe, you will see him favorably.  Dorine intentionally misinterprets him to make a joke; she says to herself, jokingly, that Tartuffe does have quite a good physique.  This double meaning arises from the word "foppery" which is used to describe someone who has excessive concern with their clothes and appearance.
+</p>

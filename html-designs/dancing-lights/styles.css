@@ -1,0 +1,36 @@
+.dancing-lights {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100px;
+  }
+  
+  .dancing-lights div {
+    height: 20px;
+    width: 20px;
+  }
+  
+  .dancing-lights .off {
+    background: radial-gradient(#333333, black) !important;
+  }
+  
+  .dancing-lights .red {
+    background: radial-gradient(#ff0000, black);
+  }
+  
+  .dancing-lights .orange {
+    background: radial-gradient(#ff9900, black);
+  }
+  
+  .dancing-lights .green {
+    background: radial-gradient(#00bb00, black);
+  }
+  
+  .dancing-lights .blue {
+    background: radial-gradient(#0000ff, black);
+  }
+  
+  .dancing-lights .purple {
+    background: radial-gradient(#aa00aa, black);
+  }
+  

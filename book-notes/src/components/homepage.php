@@ -1,0 +1,6 @@
+<div class='homepage'>
+  <h1>Dramatic Analysis</h1>
+  <p>Dramatic Analysis is a project site for my personal literary analyses.  I may include analysis and content from contributors other than myself, and in that case, will credit contributors for the sections they have written.  If you are interested in helping to contribute analysis of literature to Dramatic Analysis, contact me at nalemromandi@gmail.com (temp email for now).</p>
+  <p>Unless otherwise stated, all opinions and writing on Dramatic Analysis are solely the opinions of myself.  I encourage you to read this content if you are interested in better understanding a work of literature that you enjoy.  If you are a student looking to learn about a drama or novel, I encourage you to peruse the information here.  If you are looking for help with essay topics for some piece of literature, this is a good place to start.  Of course, you should not copy any material or analysis found here for the sake of academic papers, unless you cite it properly.  If you would like help or consultation with an academic essay, I'd probably be delighted to help.</p>
+  <p>Dramatic Analysis is sparse right now, but will update with more content somewhat regularly in the future.  This site is hosted using Apache and PHP on AWS.  Check the sidebar to see what content has been analyzed.</p>
+</div>
