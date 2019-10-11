@@ -200,9 +200,9 @@ body {
 }
 
 .quiz {
-
+  font-family: Arial;
 }
 
 .quiz p {
-
+  margin: 0;
 }
