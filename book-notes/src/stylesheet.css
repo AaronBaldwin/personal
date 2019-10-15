@@ -40,7 +40,7 @@ body {
 .main {
   display: grid;
   grid-template-areas: 'sidebar chapter-summary right';
-  grid-template-columns: 1fr 5fr;
+  grid-template-columns: 1fr 5fr 2fr;
 }
 
 .sidebar {
@@ -197,12 +197,4 @@ body {
 
 .chapter-summary .quote p {
   margin-left: 15px;
-}
-
-.quiz {
-  font-family: Arial;
-}
-
-.quiz p {
-  margin: 0;
 }

@@ -1,0 +1,12 @@
+.quiz.one-q-view .question {
+  display: none;
+}
+
+.quiz.one-q-view .question.active {
+  display: block;
+}
+  
+.quiz p {
+  margin: 0;
+}
+  
