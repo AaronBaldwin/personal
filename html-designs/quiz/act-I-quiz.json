@@ -1,0 +1,21 @@
+{
+  "title": "Act I Quiz",
+  "oneQuestionView": true,
+  "questions": [
+    {
+      "question": "Who is engaged to Mariane?",
+      "answer": "Valere",
+      "otherOptions": ["Orgon", "Damis", "Cleante"]
+    },
+    {
+      "question": "Which of these characters is partial to Tartuffe",
+      "answer": "Madame Pernelle",
+      "otherOptions": ["Cleante", "Dorine", "Damis"]
+    },
+    {
+      "question": "Which character had some sort of flu?",
+      "answer": "Elmire",
+      "otherOptions": ["Tartuffe", "Orgon", "Madame Pernelle"]
+    }
+  ]
+}

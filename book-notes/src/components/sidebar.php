@@ -35,7 +35,7 @@
       if($sectionName === "." OR $sectionName === "..") continue;
       $sectionLink = "/$bookName/$sectionName";
       $formattedSectionName = formatBookAndChapterText($sectionName);
-      $liClass = strcmp($selectedSection, $sectionName) == 0 ? "selected" : "a";
+      $liClass = strcmp($selectedSection, $sectionName) == 0 ? "selected" : "";
       echo "<li class='$liClass'><a href='$sectionLink'>$formattedSectionName</a></li>";
     }
     echo "</ul>"; # End list of sections for this book

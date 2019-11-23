@@ -1,0 +1,44 @@
+.quiz .submit-answers {
+  padding:  5px;
+  background-color: dodgerblue;
+  color: white;
+  display: inline-block;
+  border-radius: 5px;
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+.quiz .submit-answers:hover {
+  background-color: #2EA0FF;
+}
+
+.radio-group p {
+  margin: 15px 5px;
+}
+
+.radio-option {
+  display: flex;
+  margin: 5px;
+}
+
+.radio-option:hover {
+  cursor: pointer;
+}
+
+.radio-option .radio-icon {
+  display: inline-block;
+  height: 15px;
+  width: 15px;
+  border-radius: 50%;
+  border: 2px solid royalblue;
+}
+
+.radio-option.selected .radio-icon {
+  background: radial-gradient(white, royalblue);
+}
+
+.radio-option p {
+  display: inline-block;
+  margin: 0;
+  margin-left: 5px;
+}

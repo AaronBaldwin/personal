@@ -1,0 +1,47 @@
+>Part of a novel I'm writing:
+
+"Well, what I've learned from being a manager is that its good to get everyone on the same page."
+Alex placed his hands on his forehead with his middle and index fingers touching the outside of his forehead.  Lines furled on his forehead and he closed his eyes.
+"This is really simple.  Everyone on the team has a very firm opinion on how to continue with the project.  There will be no getting on the same page."
+"I think we should have a meeting where we can all sync up on that."
+Alex's upper eye-lid twitched as he eyed down Alain with his left eye.  
+"Look, I, Uh.  We can have a meeting, but we need some direction, or like really we just need someone to be responsible for the decision.
+"Its a team decision, Alex."
+"Ok, but the team is never going to.."
+"Its a team decision and we should come to a consensus.  Listen, I read this story about managing.  We will lay out the facts and make a logical decision."
+"The logical decision is a compromise on updating the existing integration project.  No one wants to continue with my project.  I understand that, and I'm annoyed about it, but the compromise is to update the existing code.  We might tightly couple the existing solution with the new one or maybe it will be its own separate microservice inside of the IIE.  Either way it would work and it works for me."
+"Lets talk about the advantages of the IIE project"
+"Sure, the obvious advan.."
+"Write it on the board!"
+Alain plucked() a black expo marker from the glass which he extended to Alex's nose.
+"This is part of the story, lots of writing"
+Alex uncapped the black marker and began to scrawl.
+"Ugh, dried out markers annoy me.  They're cheap, just toss them and buy new ones."
+Alex picked up the green one instead, blue and red left in the glass.
+He stuck the cap on the rear and continued his scrawl.
+"Save overhead cost in DevOps, Security, Error reporting, other setup.", Alex restated as he wrote it.
+"Security is going to be different, we are exposing much more sensitive information."
+"Ok, well Ronan insists that will not be the case and I don't know enough to say for certain."
+"Is this the only point for updating IIE?"
+Alex spun the marker around on top of his hand and it fell back to resting parallel to his thumb and over his index finger.  He refingered the expo and drew a dash next to his statement.  Then he drew another dash directly below and continued writing and speaking in slow tempo as he did, "Potential reuse of existing data models and (?) API endpoint"
+"This is a separate project, there is no reason to reuse the same data"
+Alex shrugged, "I'm not sure how viable it is, but it is a benefit.  That is to say, this is not a negative.  It may end up being helpful.  In theory, this project operates on the same data that we need for D-portal.  Some of the project might be reusable.  If nothing else, we can write scripts to push the existing data to a new format and save time in some configurations."
+"But that runs the risk of breaking IIE.  We want to move quickly, we can't have regressions on that project."
+"What?  There won't be any regressions.  I'm saying we can make a new database table and write a script to transform the data from the existing table into the new one, but leave the existing table unmodified."
+Alex marked a (?) next to this point on the whiteboard.
+"Well I'm not saying this will happen for sure, but it is a possibility.  There is a lot of capital in the existing project.  And there may even be an endpoint we can repurpose."
+"Which endpoint?"
+"I'm not sure, but Ronan insists."
+"There must be an endpoint, tell me what endpoint.  There is no endpoint that does this.  Which endpoint is it?"
+"Look, I'm inclined to agree with you, but I'm not a proper advocate for this case.  Ronan is the expert on this project and he insists its possible so there may be some merit to that.  Its a positive."
+"Alex, lets not get into the details at this meeting.  We should get everyone in the same room and on the same page.  We just need to be objective about the facts and the solution will become obvious."
+"I spent a -lot- of time thinking about this and I can tell you exactly how the meeting will shake out.  Ronan will support the IIE.  I will support my prototype of the project.  Miguel will support the new project altogether.  There is no objective decision here, and there hardly ever is.  We can lay out all the points and everyone will back the same opinions as before.  We know all of the arguments now and we know no one is changing their mind.  Everyone simply has different ideals on what is important for the project.  It isn't a matter of objectivity, its a matter of everyone's values.  I realize this is an uncomfortable truth for most software developers to swallow.  What we need is..is.."
+"Unity, of course.  The problem is that everyone needs to compromise on the correct decision."
+"I..uh.."
+"And what about the other details of the review of your design.  Should we go over those?"
+"I don't know.  They aren't as important.  The decision on where to host the project is the most significant project."
+"Ok, lets go ask Devops"
+"Ask Devops what exactly?"
+"How much effort would it be to host this project."
+"Err, some senior members of the team have said its non-trivial.  And I'm not sure Devops will have a concrete answer for us."
+"Lets go."

@@ -13,10 +13,10 @@
 
 <h3>Scene II</h3>
 <p>
-  Dorine, validating Orgon's paranoia now creeps into the scene.  Orgon asks Mariane in a roundabout manner whether she would marry Tartuffe.  Mariane is positively befuddled by the statement, and the two have a short but silly exchange where they keep asking what the other meant.  Miscommunication between two parties is a core tenet of humor.
+  Dorine, validating Orgon's paranoia, creeps into the scene.  Orgon asks Mariane in a roundabout manner whether she would marry Tartuffe.  Mariane is positively befuddled by the statement, and the two have a short but silly exchange where they keep asking what the other meant.  Miscommunication between two parties is a core tenet of humor.
 </p>
 <p>
-  Orgon notices Dorine who interjects at this point.  Dorine jokes that she has just now heard the news of Mariane and Tartuffe being married and that she has been making a mockery of the news.  This is of course tongue-in-cheek sarcasm from Dorine who was just caught overhearing this private declaration from Orgon.  Dorine proceeds to insist that such a marriage makes no sense and that surely Orgon must not be serious.
+  Orgon notices Dorine who interjects at this point.  Dorine jokes that she has just recently heard the news of Mariane and Tartuffe being married and that she has been making a mockery of the news.  This is of course tongue-in-cheek sarcasm from Dorine who was just caught overhearing this private declaration from Orgon.  Dorine proceeds to insist that such a marriage makes no sense and that surely Orgon must not be serious.
 </p>
 <?php
   $mpQuote = "Dorine, Page 12";
@@ -24,7 +24,7 @@
   printQuote($mpQuote, $mpText);
 ?>
 <p>
-  This is one of the rare times where Dorine states something plainly.  Otherwise, most everything she says is wrapped in banter.  Here she comes right out and says that the best, most fruitful, discussions are between calm people who banter each other.  She then makes logical inquiries into Orgon's motives for this request.  Dorine is a mouthpiece for the author and here she reveals a core philosophy of the drama: humor, and especially self-humor are critical in communication and understanding.
+  This is one of the rare times where Dorine states something plainly.  Otherwise, most everything she says is wrapped in banter.  Here she comes right out and says that the best, most fruitful, discussions are between calm people who banter each other.  She then makes logical inquiries into Orgon's motives for this marriage request.  Dorine is a mouthpiece for the author and here she reveals a core philosophy of the drama: humor, especially self-humor, is critical in communication and understanding.
 </p>
 <p>
   Orgon again defends Tartuffe, stating that Tartuffe being impoverished is a sign that he has followed God's will in giving up earthly possessions.  He reveals that Tartuffe was not always poor; in fact, he comes from a well-known family.  The lack of concern for earthly possessions can be seen as Godly, but in Tartuffe's case he appears more of a prodigal son than an ascetic.
@@ -38,5 +38,31 @@
   printQuote($mpQuote, $mpText);
 ?>
 <p>
-  What Orgon means here is: If you consider the spiritual side rather than the physical appearance of Tartuffe, you will see him favorably.  Dorine intentionally misinterprets him to make a joke; she says to herself, jokingly, that Tartuffe does have quite a good physique.  This double meaning arises from the word "foppery" which is used to describe someone who has excessive concern with their clothes and appearance.
+  What Orgon means here is: If you consider Tartuffe's spiritual side rather than his physical appearance, you will see him favorably.  Dorine intentionally misinterprets him to make a joke; she agrees with Orgon, jokingly, that Tartuffe is physically atractive.  This double meaning in the quote arises from the word "foppery" which is used to describe someone who has excessive concern with their clothes and appearance.
 </p>
+<h3>Scene III</h3>
+<p>
+  Orgon departs in an angry daze, leaving Mariane and Dorine.  This scene is an exchange between Mariane and Dorine.  Dorine pointedly asks Mariane why she will not speak up for herself against this proposed marriage to Tartuffe.  Mariane proclaims that she loves Valere, but proceeds to make a number of excuses for why she will allow herself to be married to Tartuffe anyhow.  She asks is it not Valere's reponsibility to earn her father's approval?  Mariane, when pressed, says that she may just kill herself if forced to marry Tartuffe.  Dorine replies to say that is a relief to hear.  Dorine is half-serious and half-joking when she says that.  She is joking, because obviously there are better solutions than committing suicide.  She is serious because she is genuinely happy to know that Mariane thinks so lowly of being married to Tartuffe.
+</p>
+<?php
+  $mpQuote = "Dorine, Page 16";
+  $mpText = "I have no compassion for people who talk idly and give way in time of action as you do.";
+  printQuote($mpQuote, $mpText);
+?>
+<p>
+  Mariane has been lamenting her potential marriage to Tartuffe, but refuses to do anything about it other than idle threats of suicide.  Dorine is upset about this and insists that if Mariane really loves Valere, then she must not resign herself to this terrible fate.  This quote shows tough-love from Dorine who says simply that there is no reason to have compassion for people who refuse to help themselves.
+</p>
+<p>
+  After this point, Dorine changes tactics and begins telling Mariane to just accept her fate and marry Tartuffe.  Mariane is bothered by this and now, ironically, continues to argue against Dorine.  Dorine describes Tartuffe as being rosy.  I don't believe there is any extra meaning behind her calling his ear "red" aside from painting a physical picture of someone who is jolly.  This culminates in Mariane begging Dorine to help her foil her father's matrimony plans.
+</p>
+<?php
+  $mpQuote = "Dorine and Mariane, Page 17";
+  $mpText = "No, in troth: you shall be Tartuffed.<br/>Well, since my misfortunes can't move you, henceforth leave me entirely to my despair.  That shall lend my heart relief, and I know an infallible remedy for all my sufferings.";
+  printQuote($mpQuote, $mpText);
+?>
+<p>
+  The first quip from Dorine here is humorous because of how it is phrased.  The more straightforward way to say that would simply be "You shall be betrothed to Tartuffe".  Dorine uses Tartuffe's name as a verb and "troth" can be read as "truth" here since it is spelled similarly, sounds similarly, and would make sense instead in this sentence.  The double meaning and the casting a noun as a verb is humorous.  Miscommunications in general are humorous, as are double meanings.  It is especially brilliant when both interpretations of your sentence speak to the point you are trying to make.
+</p>
+<p>Dorine and Mariane finally agree they must work together to stop this marriage to Tartuffe.</p>
+<h3>Scene IV</h3>
+<p>Now Valere, Mariane's true love, arrives on the scene.  </p>
