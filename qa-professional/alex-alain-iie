@@ -21,7 +21,7 @@ Alex picked up the green one instead, blue and red left in the glass.
 He stuck the cap on the rear and continued his scrawl.
 "Save overhead cost in DevOps, Security, Error reporting, other setup.", Alex restated as he wrote it.
 "Security is going to be different, we are exposing much more sensitive information."
-"Ok, well Ronan insists that will not be the case and I don't know enough to say for certain."
+"Ok, well Anton insists that will not be the case and I don't know enough to say for certain."
 "Is this the only point for updating IIE?"
 Alex spun the marker around on top of his hand and it fell back to resting parallel to his thumb and over his index finger.  He refingered the expo and drew a dash next to his statement.  Then he drew another dash directly below and continued writing and speaking in slow tempo as he did, "Potential reuse of existing data models and (?) API endpoint"
 "This is a separate project, there is no reason to reuse the same data"
@@ -31,11 +31,11 @@ Alex shrugged, "I'm not sure how viable it is, but it is a benefit.  That is to 
 Alex marked a (?) next to this point on the whiteboard.
 "Well I'm not saying this will happen for sure, but it is a possibility.  There is a lot of capital in the existing project.  And there may even be an endpoint we can repurpose."
 "Which endpoint?"
-"I'm not sure, but Ronan insists."
+"I'm not sure, but Anton insists."
 "There must be an endpoint, tell me what endpoint.  There is no endpoint that does this.  Which endpoint is it?"
-"Look, I'm inclined to agree with you, but I'm not a proper advocate for this case.  Ronan is the expert on this project and he insists its possible so there may be some merit to that.  Its a positive."
+"Look, I'm inclined to agree with you, but I'm not a proper advocate for this case.  Anton is the expert on this project and he insists its possible so there may be some merit to that.  Its a positive."
 "Alex, lets not get into the details at this meeting.  We should get everyone in the same room and on the same page.  We just need to be objective about the facts and the solution will become obvious."
-"I spent a -lot- of time thinking about this and I can tell you exactly how the meeting will shake out.  Ronan will support the IIE.  I will support my prototype of the project.  Miguel will support the new project altogether.  There is no objective decision here, and there hardly ever is.  We can lay out all the points and everyone will back the same opinions as before.  We know all of the arguments now and we know no one is changing their mind.  Everyone simply has different ideals on what is important for the project.  It isn't a matter of objectivity, its a matter of everyone's values.  I realize this is an uncomfortable truth for most software developers to swallow.  What we need is..is.."
+"I spent a -lot- of time thinking about this and I can tell you exactly how the meeting will shake out.  Anton will support the IIE.  I will support my prototype of the project.  Miguel will support the new project altogether.  There is no objective decision here, and there hardly ever is.  We can lay out all the points and everyone will back the same opinions as before.  We know all of the arguments now and we know no one is changing their mind.  Everyone simply has different ideals on what is important for the project.  It isn't a matter of objectivity, its a matter of everyone's values.  I realize this is an uncomfortable truth for most software developers to swallow.  What we need is..is.."
 "Unity, of course.  The problem is that everyone needs to compromise on the correct decision."
 "I..uh.."
 "And what about the other details of the review of your design.  Should we go over those?"
@@ -45,3 +45,17 @@ Alex marked a (?) next to this point on the whiteboard.
 "How much effort would it be to host this project."
 "Err, some senior members of the team have said its non-trivial.  And I'm not sure Devops will have a concrete answer for us."
 "Lets go."
+He unstraddled the office chair he occupied, and swung himself around to face the door.  Alex and Alain walked briskly around the array of desks and into the South wing of the office.  The Devops engineer was in his 30s, with a scruffy beard.  He seemed modestly bewildered at the prospect of having an impromptu meeting with the two strange men in front of him.
+"Hello Dean, I'm Alain.  I wanted to ask you about the process for hosting a new project."
+"Well ya, what about it?"
+"How much effort do you think it would take to spin up a database and provision a subdomain."
+"Oh uh ya that should be pretty fast."
+"Would it be a week, or a day?"
+"Well please write a ticket for us and I can let you know for sure.  But ya it should be fast."
+"Do you have any questions Alex?"
+"Hi, yes, I'm Alex, nice to meet you.  My perspective is that we have to make a decision about hosting a new project altogether or updating an existing project.  People on the team feel differently about what the right process is.  Some senior engineers have stated that hosting a new project comes with an amount of overhead.  I'm not entirely sure what services we will need configured for this project yet."
+"Ha, well ya, you should write me a ticket and then I can tell you better."
+Alain grinned broadly, "It sure is great we can drop in on Devops like this.  One of the benefits of working at a startup company."
+"Uh yes, thank you, Dean, was it?"
+The two walked away and Dean resumed his intent staring at the computer screen, which was presently open to the JIRA Devops backlog. 
+"Ok Alex, no pressure about the project.  I am going to get you everything you need to be successful."
